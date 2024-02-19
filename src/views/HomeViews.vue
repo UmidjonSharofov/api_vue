@@ -1,11 +1,11 @@
-<template>
+<template >
     <div>
-        registor pages
+        <h1>Home </h1>
     </div>
 </template>
 <script>
 export default {
-    name: 'Regester'
+
 }
 </script>
-<style></style>
+<style ></style>
